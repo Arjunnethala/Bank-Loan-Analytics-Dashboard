@@ -42,20 +42,19 @@ The dataset contains bank loan information such as:
 - Annual Income
 - Verification Status
 
-### 🎯 Objective
+###  Objective
 
 The main objective of this task was to transform the raw dataset into a clean, consistent, and analysis-ready dataset that can be used for Exploratory Data Analysis and dashboard development.
 
-### ✅ Outcome
+### Outcome
 
 The Bank Loan dataset was successfully cleaned and prepared for the next stage of the project: **Exploratory Data Analysis (EDA).**
 
 ### 📁 Files
 
-- `Raw_Bank_Loan_Data.xlsx` – Original dataset
 - `Cleaned_Bank_Loan_Data.xlsx` – Cleaned and prepared dataset
 
-### 👨‍💻 Internship
+###  Internship.
 
 **Data Analytics Internship – SWYNEX Technologies**
 
